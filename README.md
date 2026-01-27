@@ -1,2 +1,3 @@
-# academic-projects
-Collection of academic finance and econometrics projects
+# Academic Projects
+This repository contains academic work in statistics and econometrics.
+Projects are currently being organized and documented.
